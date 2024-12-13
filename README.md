@@ -40,9 +40,7 @@ As principais tecnologias e bibliotecas usadas neste projeto incluem:
 
 ---
 
-## 🤝 Grupo:
-
-Para dúvidas ou sugestões, entre em contato:
+## 🤝 Grupo
 
 - Amanda Francelina da Silva - 01601710
 - Brenda Stefany Lima Cavalcanti - 01589516
