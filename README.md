@@ -36,6 +36,7 @@ As principais tecnologias e bibliotecas usadas neste projeto incluem:
 
 ## 📊 Resultados
 
+- **Gráfico de Recompensa:** Mostra a recompensa acumulada ao longo dos episódios.
 - **Desempenho Final:** O agente consegue equilibrar o pêndulo, impedindo-o de cair, completando assim o objetivo do jogo.
 
 ---
